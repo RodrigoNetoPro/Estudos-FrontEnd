@@ -1,0 +1,1 @@
+Ainda estou aprendendo a utilizar o Git e o GitHub, por isso essa bagunça. Mas logo eu me organizo mais e começo a postar alguns projetos.
